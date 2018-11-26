@@ -228,6 +228,7 @@
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ContentTopics.cs" />
+    <Compile Include="Models\Files.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\SiteContent.cs" />
     <Compile Include="Models\SiteContentStatus.cs" />
